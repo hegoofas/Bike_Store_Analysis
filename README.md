@@ -55,19 +55,29 @@ This project analyzes sales and performance data for a Bike Store using Excel to
 
 🛠 Tools Used
 
-Excel
-Power Query
-Power Pivot
-DAX
+
+-Excel
+
+-Power Query
+
+-Power Pivot
+
+-DAX
+
 
 📊 Final Deliverables
 
+
 Interactive Excel dashboard
+
 Cleaned and transformed dataset
+
 Images folder for screenshots and visuals
+
 
 ⭐ Feedback
 
 
 If you have any suggestions or feedback, feel free to reach out!
+
 
