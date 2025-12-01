@@ -81,3 +81,6 @@ Images folder for screenshots and visuals
 If you have any suggestions or feedback, feel free to reach out!
 
 
+🔗 Project In LinkedIn:
+https://www.linkedin.com/posts/ibrahim-abdulghfar-a0b13a364_im-excited-to-share-with-you-my-latest-activity-7360679920043196416-bkBg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFpuyCsBNij9rn_9jYrSPVjIHEViYJtJTQY
+؛
